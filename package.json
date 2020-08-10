@@ -1,0 +1,16 @@
+{
+  "name": "eslint-action-public",
+  "version": "0.1.0",
+  "descriptioin": "This is some description for the mirror repository",
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@gelatofm/exec-utils": "0.1.1",
+    "@types/jest": "^26.0.9",
+    "@types/node": "^12.12.54",
+    "ts-node": "^8.10.2"
+  },
+  "scripts": {
+    "ts": "tsc --noEmit"
+  }
+}

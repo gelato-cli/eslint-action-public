@@ -1,0 +1,10 @@
+node_modules
+/coverage
+.idea
+.DS_Store
+yarn-error.log
+.next
+.sessions
+**/site/out
+.temp*
+storybook-out
