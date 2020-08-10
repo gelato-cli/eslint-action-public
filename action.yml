@@ -7,4 +7,4 @@ inputs:
     default: false
 runs:
   using: node12
-  main: dist/index.js
+  main: build/index.js
