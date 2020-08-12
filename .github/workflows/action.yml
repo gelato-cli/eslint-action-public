@@ -27,3 +27,7 @@ jobs:
         run: yarn ts
       - name: run build
         run: yarn build
+      - name: run typescript
+        run: yarn ts
+      - name: run build
+        run: yarn build
