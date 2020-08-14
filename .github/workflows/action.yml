@@ -25,3 +25,5 @@ jobs:
         run: yarn build
       - name: run linting
         uses: gelato-cli/eslint-action-public@master
+        with:
+          type: all
