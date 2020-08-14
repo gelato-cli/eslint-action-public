@@ -11,6 +11,7 @@
     "@babel/preset-typescript": "^7.10.4",
     "@gelato-cli/command-lint": "0.2.0",
     "@gelato-cli/runner": "0.2.2",
+    "@gelatofm/eslint-config-manager": "0.2.0",
     "@gelatofm/eslint-plugin": "0.1.1",
     "@gelatofm/exec-utils": "0.1.1",
     "@gelatofm/webpack-configs": "0.3.0",

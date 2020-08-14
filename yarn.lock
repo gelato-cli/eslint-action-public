@@ -519,6 +519,13 @@
     graphology "^0.17.1"
     lodash "^4.17.19"
 
+"@gelatofm/eslint-config-manager@0.2.0":
+  version "0.2.0"
+  resolved "https://npm.pkg.github.com/download/@gelatofm/eslint-config-manager/0.2.0/2ba45e1063c4c930c044852b4b4c7808bbc748db04e8f7fb0faab4f60fe21095#1b20c4a038d3b23fe35c1329c99799b394d8811e"
+  integrity sha512-dGe1dio88ggt/HM5HAA0R8KLM1QsVtp5Ca9f8kgwV6Je9Og41qrQOYweiNamRMd9a8bTISM/Fu8pLlRG78+skg==
+  dependencies:
+    ts-node "^8.10.2"
+
 "@gelatofm/eslint-plugin@0.1.1":
   version "0.1.1"
   resolved "https://npm.pkg.github.com/download/@gelatofm/eslint-plugin/0.1.1/598c0ac5873cecd01f904fc08737c1925c42233294ec9844978096051445b541#21e18641a7470fae86080d6ea262c6381531c3cb"
