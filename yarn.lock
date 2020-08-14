@@ -453,10 +453,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.2.5.tgz#8eed982e2ee6f7f4e44c253e12962980791efd46"
   integrity sha512-6U71C2Wp7r5XtFtQzYrW5iKFT67OixrSxjI4MptCHzdSVlgabczzqLe0ZSgnub/5Kp4hSbpDB1tMytZY9pwxxA==
 
-"@gelato-cli/command-lint@0.2.0":
-  version "0.2.0"
-  resolved "https://npm.pkg.github.com/download/@gelato-cli/command-lint/0.2.0/3e512a68ecaf855c4db887ab49c4e310d06aaf306ae5891357cee4d720fa5021#2df3076f129c08e5f24838e6f88852603978aa50"
-  integrity sha512-8Tj7sfE6/NhXkO8gANjb2RZ1zhPz73iukHwMy6G+ISaiceAJBqiUaHvjyNA1Zn7fpLQuK+x6wYPRAKZHCs+AOg==
+"@gelato-cli/command-lint@0.2.1":
+  version "0.2.1"
+  resolved "https://npm.pkg.github.com/download/@gelato-cli/command-lint/0.2.1/a720295ce7c6c00e853279f6e05a44a2e3806fe2c69deffecd8ca6dec1731231#ddc3e953065f36bc820a0b2d19d5467b0e75ca41"
+  integrity sha512-mW59YSY3pjcSysQFQH40lZXgo81I/kdfwyZ9yke6UUbvVi+RXZI8HksH8kP9v3Uqkb/GG5RtOfNLsU2J1m+WBA==
   dependencies:
     "@gelato-cli/model" "0.2.0"
     "@gelatofm/affected-files" "0.1.1"

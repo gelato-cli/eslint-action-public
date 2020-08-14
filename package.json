@@ -9,7 +9,7 @@
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.10.4",
     "@babel/plugin-proposal-optional-chaining": "^7.11.0",
     "@babel/preset-typescript": "^7.10.4",
-    "@gelato-cli/command-lint": "0.2.0",
+    "@gelato-cli/command-lint": "0.2.1",
     "@gelato-cli/runner": "0.2.2",
     "@gelatofm/eslint-config-manager": "0.2.0",
     "@gelatofm/eslint-plugin": "0.1.1",
