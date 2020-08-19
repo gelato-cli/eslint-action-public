@@ -142,6 +142,7 @@
     "react/jsx-curly-newline": "off",
     "@typescript-eslint/explicit-function-return-type": "off",
     "@typescript-eslint/ban-ts-ignore": "off",
+    "@typescript-eslint/ban-ts-comment": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "react/default-props-match-prop-types": "off",
     "react/require-default-props": "off",
