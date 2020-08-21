@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@actions/core": "^1.2.4",
-    "@babel/core": "^7.11.1",
+    "@babel/core": "^7.11.4",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.10.4",
     "@babel/plugin-proposal-optional-chaining": "^7.11.0",
     "@babel/preset-typescript": "^7.10.4",
@@ -31,7 +31,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.6",
-    "eslint-plugin-react-hooks": "^4.0.8",
+    "eslint-plugin-react-hooks": "^4.1.0",
     "eslint-plugin-unicorn": "^21.0.0",
     "jest": "^26.4.1",
     "jest-runner-eslint": "^0.10.0",
