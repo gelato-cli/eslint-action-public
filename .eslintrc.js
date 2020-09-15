@@ -47,7 +47,11 @@
     "entry-points": {
       "custom": {
         "lodash": 1,
-        "@atlaskit/icon": "glyph/*",
+        "@atlaskit/icon": [
+          "glyph/*",
+          "glyph/editor/*",
+          "glyph/emoji/*"
+        ],
         "@material-ui/icons": 1,
         "@apollo/client": 3,
         "next": 1,
@@ -63,6 +67,7 @@
     }
   },
   "rules": {
+    "no-undef": "off",
     "no-restricted-imports": [
       "error",
       {
@@ -148,6 +153,8 @@
     "react/require-default-props": "off",
     "no-unused-expressions": "off",
     "@typescript-eslint/no-unused-expressions": "error",
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": "error",
     "@gelatofm/prefer-tsx-over-ts": "error"
   }
 }
